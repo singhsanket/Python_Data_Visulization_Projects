@@ -1,1 +1,1 @@
-# Python_Data_Visulization_Projects
+# Python_Data_Analysis_Projects
